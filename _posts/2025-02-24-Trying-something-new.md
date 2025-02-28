@@ -2,7 +2,7 @@
 layout: post
 title:  "Trying something new I guess?"
 date:   2025-02-24 20:57:35 +1100
-categories: jekyll update
+categories: jekyll github blog
 ---
 
 For my first post, I wanted to note down my reasons for starting a blog (and how I'll be doing it).
