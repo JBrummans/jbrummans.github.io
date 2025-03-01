@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Waiting for the Sunrise
-- Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/waitingforthesunrise/v21/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsYZQ9h_ZYk5J.ttf
-- Font License: undefined)
