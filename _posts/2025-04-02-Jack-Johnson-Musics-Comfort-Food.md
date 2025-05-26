@@ -5,7 +5,7 @@ date:   2025-04-02 00:00:00 +1100
 categories: Jack Johnson Music CD
 ---
 
-The Soundtrack to Simplicity: Jack Johnson, Music's Comfort Food
+# Jack Johnson, Music's Comfort Food
 
 Im sure we all have those artists or songs, that feel like a warm hug when you're down. The musical equivalent of hot bowl of soup on a cold night or a dinner roast with the family. For me, and I suspect for many others, Jack Johnson occupies that space. His music, with its gentle acoustic melodies and understated charm, is the ultimate comfort food for the ears.
 
