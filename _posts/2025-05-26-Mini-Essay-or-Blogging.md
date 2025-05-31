@@ -9,7 +9,7 @@ categories: blogging
 
 I recently watched a video on YouTube titled [Mini Essays - The Perfect Tool for Lifelong Learners](https://www.youtube.com/watch?v=hi8meiPUt84) by creator *Odysseas*. It got me thinking about the difference between a Mini Essay and a blog.
 
-My initial thought was that they are largely similar. However on further thought and reading I can understand the differences. Mini essays are short (typically a few hundred words) and focused on a single topic. The intention is just as much for the *author* to learn as the *audience* is as well.
+My initial thought was that they are largely similar. However on further thought and reading I can understand the differences. Mini essays are short (typically a few hundred words) and focused on a single topic. The intention is more for the *author* to learn rather then the *audience*. (although there is no requirement to make the essay's public)
 
 A blog post is far less rigid in its structure and intentions. A single blog post could be any length of words, about any number of topics and for equal parts entertainment as education.
 
