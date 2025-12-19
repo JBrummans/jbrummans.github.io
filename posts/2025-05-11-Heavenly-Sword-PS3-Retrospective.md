@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heavenly Sword PS3 Retrospective 2025"
-date:   2025-05-11 00:00:00 +1100
+date:   2025-05-11
 categories: Heavenly Sword PS3 Retrospective 2025 video games Sony
 ---
 Released in 2007, *Heavenly Sword* was the game that sold me on the PS3. I got to play the first few levels at a friend’s place, and it didn’t take long to convince me to buy the console. I’m sure anyone who played the game remembers the iconic level with Nariko — our leading lady — running across ropes strung through ancient ruins. That moment really showcased the kind of cinematic action experience Ninja Theory was aiming for: intense combat and stunning visuals.

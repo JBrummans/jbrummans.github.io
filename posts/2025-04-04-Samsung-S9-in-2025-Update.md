@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Samsung S9 in 2025 (Update)"
-date:   2025-04-04 00:00:00 +1100
+date:   2025-04-04
 categories: Samsung S9 2025 Update Android Technology
 ---
 

@@ -1,13 +1,74 @@
----
-layout: default
-title: Home
----
 
-<h1>Blog Posts</h1>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-    </li>
-  {% endfor %}
-</ul>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JBrummans Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html"><strong>JBrummans.github.io</strong></a> |
+            <a href="https://github.com/JBrummans">GitHub</a>
+        </nav>
+    </header>
+    <main>
+<div class="news-aggregator">
+    <h2>Latest Updates</h2>
+    <div class="news-list">
+        
+    <div class="news-item">
+        <span class="news-date">[2025-11-25]</span>
+        <a href="site/2025-11-25-What-we-lost-when-handhelds-died.html" class="news-link">"What we lost when handhelds died"</a>
+    </div>
+    
+    <div class="news-item">
+        <span class="news-date">[2025-08-05]</span>
+        <a href="site/2025-08-05-Half-A-Year-Collecting-CDs.html" class="news-link">"Half a Year Collecting CDs"</a>
+    </div>
+    
+    <div class="news-item">
+        <span class="news-date">[2025-05-26]</span>
+        <a href="site/2025-05-26-Mini-Essay-or-Blogging.html" class="news-link">"Mini Essay or Blogging"</a>
+    </div>
+    
+    <div class="news-item">
+        <span class="news-date">[2025-05-11]</span>
+        <a href="site/2025-05-11-Heavenly-Sword-PS3-Retrospective.html" class="news-link">"Heavenly Sword PS3 Retrospective 2025"</a>
+    </div>
+    
+    <div class="news-item">
+        <span class="news-date">[2025-04-04]</span>
+        <a href="site/2025-04-04-Samsung-S9-in-2025-Update.html" class="news-link">"Samsung S9 in 2025 (Update)"</a>
+    </div>
+    
+    <div class="news-item">
+        <span class="news-date">[2025-04-02]</span>
+        <a href="site/2025-04-02-Jack-Johnson-Musics-Comfort-Food.html" class="news-link">"Jack Johnson, Music's Comfort Food"</a>
+    </div>
+    
+    <div class="news-item">
+        <span class="news-date">[2025-03-07]</span>
+        <a href="site/2025-03-07-Infamous-PS3-Retrospective-2025.html" class="news-link">"Infamous PS3 Retrospective 2025"</a>
+    </div>
+    
+    <div class="news-item">
+        <span class="news-date">[2025-02-27]</span>
+        <a href="site/2025-02-27-Samsung-S9-in-2025.html" class="news-link">"Samsung S9 in 2025 - Is a 7 year old phone too old?"</a>
+    </div>
+    
+    <div class="news-item">
+        <span class="news-date">[2025-02-24]</span>
+        <a href="site/2025-02-24-Trying-something-new.html" class="news-link">"Trying something new I guess?"</a>
+    </div>
+    
+    </div>
+</div>
+</main>
+    <footer>
+        <p>&copy; 2025 JBrummans. Built with a <a href="https://github.com/JBrummans/jbrummans.github.io">custom Python script</a>.</p>
+    </footer>
+</body>
+</html>

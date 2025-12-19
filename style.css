@@ -1,0 +1,69 @@
+/* Minimalist Reset */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    max_width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333;
+    background-color: #fcfcfc;
+}
+
+/* Header & Footer */
+header, footer {
+    padding: 10px 0;
+    border-bottom: 2px solid #eee;
+    margin-bottom: 20px;
+}
+footer {
+    border-bottom: none;
+    border-top: 2px solid #eee;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #666;
+    text-align: center;
+}
+
+/* News Aggregator List Style */
+.news-item {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 8px;
+    font-family: monospace; /* Gives it that raw data feel */
+}
+
+.news-date {
+    color: #666;
+    margin-right: 15px;
+    white-space: nowrap;
+    font-size: 0.9em;
+}
+
+.news-link {
+    text-decoration: none;
+    color: #0056b3;
+    font-weight: 500;
+}
+
+.news-link:hover {
+    text-decoration: underline;
+}
+
+/* Blog Post Content */
+article.post-content {
+    margin-top: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+code {
+    background: #f4f4f4;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+pre {
+    background: #f4f4f4;
+    padding: 15px;
+    overflow-x: auto;
+}

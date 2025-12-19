@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trying something new I guess?"
-date:   2025-02-24 20:57:35 +1100
+date:   2025-02-24
 categories: jekyll github blog
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Infamous PS3 Retrospective 2025"
-date:   2025-03-07 00:00:00 +1100
+date:   2025-03-07
 categories: Infamous PS3 Retrospective 2025 video games Sony
 ---
 

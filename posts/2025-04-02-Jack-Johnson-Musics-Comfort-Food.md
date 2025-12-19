@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jack Johnson, Music's Comfort Food"
-date:   2025-04-02 00:00:00 +1100
+date:   2025-04-02
 categories: Jack Johnson Music CD
 ---
 
@@ -11,7 +11,7 @@ Im sure we all have those artists or songs, that feel like a warm hug when you'r
 
 My journey with Jack Johnson began, rather strangely, with a LimeWire mistake. Sometime around 2008, I went searching for Tokio Hotel's angsty release, "Monsoon". Instead, thanks to a poorly labeled file, I ended up with "Monsoon" by Jack Johnson.
 
-To my surprise, I loved it. The laid-back vibe was a stark contrast to the dramatic rock I was expecting, but it resonated deeply. I even ended up utilising the song for some Engligh assessments for my final years at school.
+To my surprise, I loved it. The laid-back vibe was a stark contrast to the dramatic rock I was expecting, but it resonated deeply. I even ended up utilising the song for some English assessments for my final years at school.
 
 However, after school, Jack Johnson faded into the background for a while. It wasn't until years later, when I rediscovered his music, that I truly appreciated its enduring appeal. And it wasn't just me. My partner and I even chose "Better Together" as a song to play at our wedding, a testament to the simple, heartfelt emotions his music evokes.
 
