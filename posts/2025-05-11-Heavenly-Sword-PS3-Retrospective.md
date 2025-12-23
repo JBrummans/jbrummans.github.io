@@ -8,8 +8,6 @@ Released in 2007, *Heavenly Sword* was the game that sold me on the PS3. I got t
 
 However, after replaying the game recently, my feelings toward it have soured considerably. The rose-tinted glasses had to come off.
 
-![Heavenly-Sword](/assets/images/HeavenlySword.png){:style="display:block; margin-left:auto; margin-right:auto" width="50%"}
-
 The game starts off strong, with epic battle scenes featuring hordes of enemies on screen — perfect for showing off the game’s visuals. The facial animations were phenomenal for the time, especially King Bohan (the main antagonist), who is portrayed incredibly well. He manages to be both *likable* and *detestable*, which is a testament to the actor’s performance. The story sets up well in the beginning, but weakens significantly as the game progresses.
 
 Speaking of weaknesses, the gameplay is probably the biggest letdown. On this playthrough, the cracks in the design became much more apparent.
