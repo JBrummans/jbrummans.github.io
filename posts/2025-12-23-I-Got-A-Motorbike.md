@@ -7,7 +7,7 @@ categories: blog motorbike
 
 May of this year I got my motorbike licence. At the time, my father-in-law said he would find a motorbike for me. Six months down the track, he calls one Saturday to tell me he has the bike and that we’re going to pick it up. Yay!
 
-A couple of hours later I’ve got a 2007 [Sachs 150 Express](../images/Sachs150) and no idea how to ride it. (When I say *no idea*, the last time I rode a motorbike was at least five years ago on a farm, so riding on the road was very new to me.)
+A couple of hours later I’ve got a 2007 [Sachs 150 Express](../images/Sachs150.jpg) and no idea how to ride it. (When I say *no idea*, the last time I rode a motorbike was at least five years ago on a farm, so riding on the road was very new to me.)
 
 The bike itself was in good condition for its age. It starts well enough and all parts are original. Researching this bike was a pain. There is very limited information available. I managed to find a [user manual](../files/sachs-express-150-user-manual.pdf), plus a couple of forum posts and reviews, but aside from that it’s basically a no-name Chinese-made bike. It didn’t help that the registration papers listed the model as a _FYM FY150-3_, and my insurance provider said it was a _Sachs 150KN_, just to add to the confusion.
 
