@@ -5,7 +5,7 @@ date:   2025-12-24
 categories: blog motorbike
 ---
 
-May of this year I got my motorbike licence. At the time, my father-in-law said he would find a motorbike for me. Six months down the track, he calls one Saturday to tell me he has the bike and that we’re going to pick it up. Yay!
+May of this year I got my Learner motorbike license. At the time, my father-in-law said he would find a motorbike for me. Six months down the track, he calls one Saturday to tell me he has the bike and that we’re going to pick it up. Yay!
 
 A couple of hours later I’ve got a 2007 [Sachs 150 Express](../images/Sachs150.jpg) and no idea how to ride it. (When I say *no idea*, the last time I rode a motorbike was at least five years ago on a farm, so riding on the road was very new to me.)
 
@@ -26,4 +26,8 @@ Next on the list was that left blinker. It felt like it was about to fall off wh
 
 Moving on to the mirror. After a quick bit of eBay hunting, I actually found an exact replacement for my mirror. However, it was $60 and shipped from America, so instead I opted for these [cheapo replacements](../images/Sachs150EbayMirror.png), which were far cheaper as a set and delivered much faster. They actually turned out [really good](../images/Sachs150NewMirror.jpg) (for the price I paid) and are surprisingly similar to the originals.
 
-TBC — still need to get a new battery.
+I rode the bike around for a few weeks ignoring the dead battery until I had a chance to go on a quest to find one. Thankfully the local hardware shop had a very helpful gentleman who was more than happy to waste time chatting about the right battery for the bike. That night I had a _Yuasa YTX7L-BS 12V 6AH_ battery installed and the bike was starting just fine with the electric starter.
+
+Unfortunately for me that kinda concludes my little journey with fixing up this bike. Given its age, apparent cheap design and it sitting in a shed most of the last 10+ years Im pleasantly surprised with how well its going.
+
+Next step for me is the continue building my riding ability enough to pass the "P's" test. Im not actually sure if I will continue riding much once that happens as that is the last actual test before eventually transitioning to a full license in NSW Australia.
