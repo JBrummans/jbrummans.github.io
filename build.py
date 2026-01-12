@@ -102,7 +102,7 @@ for post in posts:
 index_html = f"""
 {raw_header}
 <div class="news-aggregator">
-    <h2>Latest Updates</h2>
+    <h1>Latest Updates</h1>
     <div class="news-list">
         {''.join(list_items)}
     </div>
